@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Login for Amazon",
+        "username": "user1",
+        "password": "pass1"
+    },
+    {
+        "title": "Login for Google",
+        "username": "user2",
+        "password": "pass2"
+    }
+]
